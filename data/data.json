@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "username": "MartI",
+    "password": "MartI@1234",
+    "email": "MartI@gmail.com",
+    "first_name": "Mart",
+    "last_name": "Imlach",
+    "gender": "Male",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "username": "Angel",
+    "password": "Angel@1234",
+    "email": "angel@gmail.com",
+    "first_name": "Angel",
+    "last_name": "Maria",
+    "gender": "Female",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "username": "Mark",
+    "password": "Mark@1234",
+    "email": "Mark@gmail.com",
+    "first_name": "Mark",
+    "last_name": "Thomas",
+    "gender": "Male",
+    "country": "USA"
+  },
+  {
+    "id": 4,
+    "username": "Glenn",
+    "password": "Glenn@1234",
+    "email": "Glenn@gmail.com",
+    "first_name": "Glenn",
+    "last_name": "Daniel",
+    "gender": "Male",
+    "country": "UK"
+  },
+  {
+    "id": 5,
+    "username": "Jacob",
+    "password": "Jacob@1234",
+    "email": "Jacob@gmail.com",
+    "first_name": "Jacob",
+    "last_name": "Leonard",
+    "gender": "Male",
+    "country": "Australia"
+  },
+  {
+    "id": 6,
+    "username": "Leonardo",
+    "password": "Leonardo@1234",
+    "email": "Leonardo@gmail.com",
+    "gender": "Male",
+    "country": "Australia"
+  },
+  {
+    "id": 7,
+    "username": "Brady",
+    "password": "Brady@1234",
+    "email": "Brady@gmail.com",
+    "first_name": "Brady",
+    "last_name": "Traversy",
+    "gender": "Male",
+    "country": "USA"
+  }
+]

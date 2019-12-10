@@ -1,0 +1,13 @@
+.dashboard {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 976px;
+  color: royalblue;
+}
+
+ul {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid royalblue;
+  list-style-type: none;
+}
